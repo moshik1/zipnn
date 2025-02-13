@@ -3,7 +3,6 @@
 # ZipNN: <br> A Lossless Compression Library for AI pipelines
 
 
-
 **TL;DR - simple, fast, and effective model compression.** 
 
 **arXiv Paper**: ["ZipNN: Lossless Compression for AI Models"](https://arxiv.org/abs/2411.05239)
